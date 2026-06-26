@@ -1,0 +1,10 @@
+*.zip
+*.csv
+*.pkl
+*.joblib
+venv/
+__pycache__/
+fake_news.zip
+Fake.csv
+True.csv
+templates.zip
